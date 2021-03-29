@@ -9,7 +9,7 @@
 ![](img5.png)
 
 # Exemplo de uso
-> Sistema de uma clínica de estética
+Sistema de uma clínica de estética
 
 # Instalação
 **Passo 01 - Clonar projeto**   
@@ -48,11 +48,11 @@
 ## Meta
 Emelly Becker  – emellyvbecker@gmail.com
 
-[https://github.com/EmellyVBecker/Bella-Estetica](https://github.com/EmellyVBecker)
+[https://github.com/EmellyVBecker/BellaEstetica](https://github.com/EmellyVBecker)
 
 ## Contributing
 
-1. Fork it (<https://github.com/EmellyVBecker/Bella-Estetica/fork>)
+1. Fork it (<https://github.com/EmellyVBecker/BellaEstetica/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
