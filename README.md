@@ -1,33 +1,19 @@
-<p align="center"><img src="https://laravel.com/img/logotype.min.svg" width="400"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/43/c5/5d/43c55d840d2169988d830331659726d2.png" width="400"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+# Bella Estetica 
+> Projeto desenvolvido durante as aulas de tópicos avançados em informática no curso técnico integrado do IFSC 2020.2
 
-## About this Project
-Projeto desenvolvido durante as aulas de tópicos avançados em informática no curso técnico integrado do IFSC 2020.1
+![](img.png)
+![](img4.png)
+![](img2.png)
+![](img5.png)
 
-## Aprenda sobre o Laravel
-Documentação Oficial [documentation](https://laravel.com/docs) 
+# Exemplo de uso
+> Sistema de uma clínica de estética
 
-**Links Úteis**  
-[Estrutura do Framework](https://blog.especializati.com.br/estrutura-do-framework-php-laravel/) 
-
-**Cursos Gratuitos**  
-[Curso Grátis – Laravel de A a Z](https://www.youtube.com/watch?v=4T7sDt_00Ms&list=PLC3EZa6iCgPwufZ40xMRF-4cHgzepuNFa)   
-[Curso Laravel 6.x (Gratuito!)](https://www.youtube.com/watch?v=fCR6ogiPopU&list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY)  
-[Curso Gratuito de Introdução ao Framework Laravel](https://www.portalgsti.com.br/cursos/introducao-ao-framework-laravel/)   
- 
-**Cursos Pagos**  
-[Laravel 5.8 Completo - O mais poderoso Framework PHP](https://www.udemy.com/laravelcompleto/)  
-
+# Instalação
 **Passo 01 - Clonar projeto**   
-`git clone https://github.com/lordjack/tai_aula_2020_laravel`
-
-### Comandos para serem feitos após clonar o projeto, executar os comando abaixo dentro do diretorio do projeto
+`git clone https://github.com/EmellyVBecker/Bella-Estetica`
 
 **Passo 02 - Instala dependencias e pacotes do projeto**  
 `composer install`
@@ -44,12 +30,6 @@ Documentação Oficial [documentation](https://laravel.com/docs)
 **Iniciar o servidor**  
 `php artisan serve`
 
-## Mais Comandos Básicos Úteis  
-Esses comandos devem ser usados no terminal / cmd do projeto
-
-**Listar os comandos**  
-`php artisan list`
-
 **Criar um arquivo de migração referenciando uma tabela**  
 `php artisan make:migration create_table_nome_tabela --create=nome_tabela`
 
@@ -65,7 +45,23 @@ Esses comandos devem ser usados no terminal / cmd do projeto
 **Executa a insersão dos registros no banco de dado, de forma separada por Classe**  
 `php artisan db:seed --class=NomeTabelaSeeder`
 
+## Meta
+Emelly Becker  – emellyvbecker@gmail.com
 
-## License
+[https://github.com/EmellyVBecker/Bella-Estetica](https://github.com/EmellyVBecker)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Contributing
+
+1. Fork it (<https://github.com/EmellyVBecker/Bella-Estetica/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[wiki]: https://github.com/yourname/yourproject/wiki
